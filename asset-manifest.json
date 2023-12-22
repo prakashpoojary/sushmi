@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sushmi/static/css/main.d57cb721.css",
+    "main.css": "/sushmi/static/css/main.788958fc.css",
     "main.js": "/sushmi/static/js/main.af0f5e13.js",
     "static/js/787.d89066ba.chunk.js": "/sushmi/static/js/787.d89066ba.chunk.js",
     "index.html": "/sushmi/index.html",
-    "main.d57cb721.css.map": "/sushmi/static/css/main.d57cb721.css.map",
+    "main.788958fc.css.map": "/sushmi/static/css/main.788958fc.css.map",
     "main.af0f5e13.js.map": "/sushmi/static/js/main.af0f5e13.js.map",
     "787.d89066ba.chunk.js.map": "/sushmi/static/js/787.d89066ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d57cb721.css",
+    "static/css/main.788958fc.css",
     "static/js/main.af0f5e13.js"
   ]
 }
