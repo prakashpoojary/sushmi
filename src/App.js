@@ -132,7 +132,7 @@ return (
               className={`image-item ${selectedImage === imageName ? 'dim' : ''}`}
               onClick={() => handleImageClick(imageName)}
             >
-              <img src={`/images/${imageName}`} alt={`Image for ${name}`} />
+              <img src={process.env.PUBLIC_URL + `/images/${imageName}`} alt={`Image for ${name}`} />
               {selectedImage === imageName && displayQuote && (
                 <div className="quote-container">
                   <p>{getQuote()}</p>
@@ -147,13 +147,9 @@ return (
     </div>
   </div>
 );
-
 };
 
 export default App;
-
-
-
 
 
 
