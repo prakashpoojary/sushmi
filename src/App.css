@@ -235,5 +235,21 @@ img:hover {
     padding: 10px; /* Add padding to the quote container */
     font-size: 1em; /* Decrease font size for quotes */
   }
+
+  .image-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center; /* Add this line to center items vertically */
+  }
+
+  .image-item {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+  }
+
+
 }
 
