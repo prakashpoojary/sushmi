@@ -185,56 +185,7 @@ img:hover {
 @media only screen and (max-width: 600px) {
   /* Adjustments for smaller screens */
 
-  .App {
-    padding: 20px; /* Add padding to the main container for better readability */
-  }
-
-  h1 {
-    font-size: 2em; /* Decrease the font size of the heading */
-  }
-
-  form {
-    margin-bottom: 20px; /* Decrease margin for the form */
-  }
-
-  label {
-    font-size: 1.2em; /* Decrease font size for labels */
-  }
-
-  .input-container {
-    width: 100%; /* Full width for input container */
-  }
-
-  input {
-    font-size: 1em; /* Decrease font size for input */
-  }
-
-  button {
-    padding: 10px 20px; /* Decrease padding for button */
-    font-size: 1.2em; /* Decrease font size for button */
-  }
-
-  .image-container {
-    padding: 10px; /* Add padding to the image container */
-  }
-
-  h2 {
-    font-size: 1.5em; /* Decrease font size for secondary headings */
-    margin-bottom: 15px; /* Decrease margin for secondary headings */
-  }
-
-  img {
-    margin: 10px; /* Decrease margin for images */
-  }
-
-  .modal-content {
-    width: 80%; /* Adjust the width of the modal content for smaller screens */
-  }
-
-  .quote-container {
-    padding: 10px; /* Add padding to the quote container */
-    font-size: 1em; /* Decrease font size for quotes */
-  }
+  
 
  .image-wrapper {
     display: flex;
