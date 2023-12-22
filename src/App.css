@@ -236,3 +236,16 @@ img:hover {
     font-size: 1em; /* Decrease font size for quotes */
   }
 }
+
+.image-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.image-item {
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  width: 100%; /* Make each image item take full width */
+  padding: 10px; /* Add padding for spacing between images */
+  text-align: center; /* Center the image within each item */
+}
